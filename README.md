@@ -1,6 +1,6 @@
 With a free Twilio account, you only get to text verified numbers.
 
-1.<a href="http://www.latestudy.in"> Create a Github account</a>
+1.<a href="http://www.latestudy.in"> we are going to make text messaging app using Twilio Api</a>
 
 2.<a href="http://www.latestudy.in"> Star this at the top right! and download the  python source code using download option there</a>
 
@@ -25,7 +25,7 @@ Get Auth Token
 
 8. Clone this repository on your desktop.
 
-9. Open your terminal or cmd  and pip install twilio.
+9.inside your respository Open your terminal or cmd  and type pip install twilio.
 
 10.<a href="http://www.latestudy.in"> last just run twilio.py </a>
 
